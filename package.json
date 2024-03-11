@@ -6,10 +6,10 @@
   "description": "行间px转vw",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xxx/shang-utils"
+    "url": "https://github.com/IT-NuanxinPro/stylePxToVw"
   },
-  "homepage":"https://your-package.org",
-  "bugs": "https://github.com/xxx/shang-utils/issues",
+  "homepage":"https:// github.com/IT-NuanxinPro/stylePxToVw",
+  "bugs": "https://github.com/IT-NuanxinPro/stylePxToVw/issues",
   "main": "index.js",
   "dependencies": {
   },
